@@ -6,3 +6,5 @@ mind.in.a.box is an Austrian electronic music band which was founded in 2002 by 
 * positive 
 * alternative 
 * futuristic
+
+> Don't Get Trapped in Your Own Closed Mind.
